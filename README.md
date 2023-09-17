@@ -9,7 +9,7 @@ formation web app help you to create your website and put your courses and episo
 - [x] create Course with Episodes you need, max episodes is ***20*** .
 - [x] authorize the delete and update the course by ***Gate*** and ***Policy*** .
 
-### :octocat: What is needed to be 100% functionaly? 
+### What is needed to be 100% functionaly? 
 
 * create you youtube api key then go to ```.env```
 *
